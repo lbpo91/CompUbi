@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AAL Interface</string>
+    <string name="title_activity_basic">BasicActivity</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="btnStart">Start</string>
+    <string name="btnStop">Stop</string>
+    <string name="btnReset">Reset Counter</string>
+    <string name="btnInterval">Mudar Intervalo Msg</string>
+    <string name="btnIP">Mudar IP Address</string>
+
+
+    <string name="btnValidate">Validar IP:Porta e Retornar</string>
+    <string name="btnBack">Retornar</string>
+
+    <string name="txtIP">Digite o IP e porta, formato (10.2.2.2:5500)</string>
+    <string name="txtOldIp">IP e Porta:</string>
+
+    <string name="txtIp">IP:</string>
+    <string name="txtServiceStatus">Serviço:</string>
+    <string name="txtIsConnected">Conectado:</string>
+    <string name="txtMsgCount">Mensagens Enviadas:</string>
+    <string name="txtMsgInterval">Intervalo das mensagens:</string>
+</resources>
